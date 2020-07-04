@@ -2,7 +2,6 @@
 Java. Android. Taxi App using Firebase
 
 Using libs:
-- Firebase GeoFire
 - FireBase
 
 To start Driver App run main from DriverSignInActivity.java
