@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AStudioProjects\\android-course.udemy\\FirebaseTaxiApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+<<<<<<< HEAD
+                    "source": "C:\\Users\\Администратор\\.gradle\\caches\\transforms-2\\files-2.1\\4c1c0701691a6a8deaa4ec6e21605ff6\\core-1.1.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Администратор\\.gradle\\caches\\transforms-2\\files-2.1\\61df500e4d5bba146e84dfc92ae76023\\appcompat-1.1.0\\res\\values-v16\\values-v16.xml",
+=======
+                    "source": "/Users/n.kozyrev/.gradle/caches/transforms-2/files-2.1/50389cc561ce73bd999784e091937036/appcompat-1.1.0/res/values-v16/values-v16.xml",
+>>>>>>> friebase_taxi_app
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/n.kozyrev/.gradle/caches/transforms-2/files-2.1/7edc29c7a014325ea29e781396d0bf04/core-1.1.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

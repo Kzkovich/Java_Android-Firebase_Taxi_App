@@ -1,0 +1,24 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AStudioProjects\\android-course.udemy\\FirebaseTaxiApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+<<<<<<< HEAD
+                    "source": "C:\\Users\\Администратор\\.gradle\\caches\\transforms-2\\files-2.1\\61df500e4d5bba146e84dfc92ae76023\\appcompat-1.1.0\\res\\values-v22\\values-v22.xml",
+=======
+                    "source": "/Users/n.kozyrev/.gradle/caches/transforms-2/files-2.1/50389cc561ce73bd999784e091937036/appcompat-1.1.0/res/values-v22/values-v22.xml",
+>>>>>>> friebase_taxi_app
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

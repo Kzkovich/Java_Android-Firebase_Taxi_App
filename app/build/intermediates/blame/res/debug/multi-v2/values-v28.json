@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AStudioProjects\\android-course.udemy\\FirebaseTaxiApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+<<<<<<< HEAD
+                    "source": "C:\\Users\\Администратор\\.gradle\\caches\\transforms-2\\files-2.1\\4455ede703136ad7f60add329559fa82\\material-1.2.0-alpha01\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,231,319,407,494,581,668",
+                        "endColumns": "87,87,87,87,86,86,86,86",
+                        "endOffsets": "138,226,314,402,489,576,663,750"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Администратор\\.gradle\\caches\\transforms-2\\files-2.1\\61df500e4d5bba146e84dfc92ae76023\\appcompat-1.1.0\\res\\values-v28\\values-v28.xml",
+=======
+                    "source": "/Users/n.kozyrev/.gradle/caches/transforms-2/files-2.1/50389cc561ce73bd999784e091937036/appcompat-1.1.0/res/values-v28/values-v28.xml",
+>>>>>>> friebase_taxi_app
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,16",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "755,830,917,1147",
+                        "endLines": "10,11,15,19",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "825,912,1142,1384"
+                    }
+                },
+                {
+                    "source": "/Users/n.kozyrev/.gradle/caches/transforms-2/files-2.1/d96280dde877b3057f3d98b7b997defd/material-1.2.0-alpha01/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,231,319,407,494,581,668",
+                        "endColumns": "87,87,87,87,86,86,86,86",
+                        "endOffsets": "138,226,314,402,489,576,663,750"
+                    }
+                }
+            ]
+        }
+    ]
+}

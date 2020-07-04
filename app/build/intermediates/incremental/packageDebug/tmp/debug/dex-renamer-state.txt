@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+#Mon Mar 09 23:50:17 MSK 2020
+=======
+#Fri Mar 06 16:13:59 MSK 2020
+>>>>>>> friebase_taxi_app
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\AStudioProjects\\android-course.udemy\\FirebaseTaxiApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.1=C\:\\AStudioProjects\\android-course.udemy\\FirebaseTaxiApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=C\:\\AStudioProjects\\android-course.udemy\\FirebaseTaxiApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex

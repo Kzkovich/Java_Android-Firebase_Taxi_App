@@ -1,0 +1,24 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\AStudioProjects\\android-course.udemy\\FirebaseTaxiApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "map": [
+                {
+<<<<<<< HEAD
+                    "source": "C:\\Users\\Администратор\\.gradle\\caches\\transforms-2\\files-2.1\\61df500e4d5bba146e84dfc92ae76023\\appcompat-1.1.0\\res\\values-watch-v20\\values-watch-v20.xml",
+=======
+                    "source": "/Users/n.kozyrev/.gradle/caches/transforms-2/files-2.1/50389cc561ce73bd999784e091937036/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+>>>>>>> friebase_taxi_app
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

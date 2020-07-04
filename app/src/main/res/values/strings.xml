@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase Taxi App</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="title_activity_passenger_maps">Map</string>
+</resources>

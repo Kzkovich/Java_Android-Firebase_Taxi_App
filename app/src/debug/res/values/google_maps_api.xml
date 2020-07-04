@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=6E:1F:76:92:56:7A:9D:03:43:01:06:D3:81:0E:59:22:94:09:F2:36%3Bru.kzkovich.firebasetaxiapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    ru.kzkovich.firebasetaxiapp
+
+    SHA-1 certificate fingerprint:
+    6E:1F:76:92:56:7A:9D:03:43:01:06:D3:81:0E:59:22:94:09:F2:36
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAbr4QNPeMXtunEJ4tKT-KP12VXrr0KP18</string>
+</resources>
